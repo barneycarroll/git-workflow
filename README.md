@@ -1,2 +1,2 @@
 # git-workflow
-A guide to working with Git
+An opinionated guide to working with Git & Github
